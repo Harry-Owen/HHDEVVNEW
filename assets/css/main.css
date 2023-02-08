@@ -2308,10 +2308,10 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(255, 255, 255, 0.05);
+		background: #004AAD;
 		border-radius: 0.25em;
 		border: none;
-		border: solid 1px rgba(255, 255, 255, 0.15);
+		border: solid 1px #fff5;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -3017,7 +3017,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(15, 69, 172, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3827,7 +3827,7 @@ input, select, textarea {
 				}
 
 					#sidebar nav ul {
-						display: -moz-flex;
+						display: -moz-flex;mage
 						display: -webkit-flex;
 						display: -ms-flex;
 						display: flex;
